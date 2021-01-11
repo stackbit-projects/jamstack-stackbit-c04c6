@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 description: A portfolio theme with a blog
-color_scheme: light
+color_scheme: dark
 accent_color: pink
 header:
   title: Exto
